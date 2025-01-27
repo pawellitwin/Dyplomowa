@@ -1,0 +1,19 @@
+.login-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.login-card {
+    width: 300px;
+    padding: 2rem;
+}
+
+.p-field {
+    margin-bottom: 1rem;
+}
+
+.register-button {
+    margin-top: 1rem;
+}
